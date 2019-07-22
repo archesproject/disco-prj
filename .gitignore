@@ -1,0 +1,10 @@
+*.pyc
+disco_prj/media/packages
+disco_prj/logs
+disco_prj/uploadedfiles
+.yarnrc
+arches.log
+disco_prj/system_settings/System_Settings.json
+*.sublime*
+disco_prj/settings_local.py
+.DS_Store
